@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SShibu1
+- 👋 Hi, I’m subin shibu
 - 👀 I’m interested in gaming and coding
 - 🌱 I know c++, c#, Java,Linux, Python 
 - 💞️ I’m looking to collaborate on ...
